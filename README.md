@@ -53,7 +53,7 @@ First, your program will take inputs from the user and construct the BST, Second
 
 ## Problem 5
 
-**Write a function that will compute the sum of leaf nodes in each level of a binary tree and 
+**Write a program that will compute the sum of leaf nodes in each level of a binary tree and 
 will find the maximum among those. 
 Considering the following example also show the steps executed by your proposed 
 function.**
@@ -64,7 +64,7 @@ function.**
   
 ## Problem 6
 
-**Given Preorder traversal of a BST, write a function to check if each non-leaf node has 
+**Given Preorder traversal of a BST, write a program to check if each non-leaf node has 
 only one child. Assume that the BST contains unique entries.
 Example:**
 
