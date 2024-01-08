@@ -1,6 +1,5 @@
 ## Problem 1
-**Write a program that will display child of each node of a BST (Write only the 
-Function).**
+**Write a program that will display child of each node of a BST.**
 
  **Input: 50 20 70 10 45**
 
