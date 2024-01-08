@@ -17,7 +17,7 @@ Function).**
 **Child of 70: NULL**
 
 ## Problem 2
-**Given a Binary Search Tree (BST), write a function FindSecondLargest (root) to find the second largest element.**
+**Write a program that will delete all leaves of a BST.**
 
 ## Problem 3
 **Write a program that will delete all leaves of a BST**
