@@ -1,4 +1,7 @@
 ## Problem 1
+**Write a program that will delete all leaves of a BST.**
+
+## Problem 2
 **Write a program that will display child of each node of a BST.**
 
  **Input: 50 20 70 10 45**
@@ -14,9 +17,6 @@
 **Child of 45: NULL**
 
 **Child of 70: NULL**
-
-## Problem 2
-**Write a program that will delete all leaves of a BST.**
 
 ## Problem 3
 **Given a Binary Search Tree (BST), write a program with a function FindSecondLargest (root) to find the second largest elemen**
