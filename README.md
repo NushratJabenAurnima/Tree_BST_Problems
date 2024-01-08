@@ -5,6 +5,7 @@ Function).**
  **INPUT: 50 20 70 10 45**
 
 **OUTPUT:**
+
 **Child of 50: 20 and 70**
 
 **Child of 20: 10 and 45**
