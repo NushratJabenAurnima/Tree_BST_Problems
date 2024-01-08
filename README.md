@@ -19,7 +19,7 @@
 **Write a program that will delete all leaves of a BST.**
 
 ## Problem 3
-**Given a Binary Search Tree (BST), write a function FindSecondLargest (root) to find the second largest elemen**
+**Given a Binary Search Tree (BST), write a program with a function FindSecondLargest (root) to find the second largest elemen**
 
 **Example 1:**
 
