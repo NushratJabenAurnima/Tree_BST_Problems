@@ -16,8 +16,11 @@ Function).**
 
 **Child of 70: NULL**
 
-## Problem 3
+## Problem 2
 **Given a Binary Search Tree (BST), write a function FindSecondLargest (root) to find the second largest element.**
+
+## Problem 3
+**Write a program that will delete all leaves of a BST**
 
 **Example 1:**
 
@@ -28,8 +31,6 @@ Function).**
 **Example 2:**
 
 **Input: 10 5 20 30**
-
-**20 and 45**
 
 **Output: 20**
 
@@ -58,7 +59,7 @@ will find the maximum among those.
 Considering the following example also show the steps executed by your proposed 
 function.**
 
-**Input: pre = 1 2 3 4 5 8 6 7**
+**Input: 1 2 3 4 5 8 6 7**
 
 **Output: 13**
   
