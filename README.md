@@ -40,8 +40,13 @@ First, your program will take inputs from the user and construct the BST, Second
 
 ## Problem 3
 
-**Write a program that will delete all negative number by using Pointer. You have to declare a 
-pointer array and dynamically allocate memory to input elements of array.**
+**Given Preorder traversal of a BST, write a function to check if each non-leaf node has 
+only one child. Assume that the BST contains unique entries.
+Example:**
+
+**Input: pre = {20, 10, 11, 13, 12}**
+
+**Output: Yes**
   
 ## Problem 4
 
