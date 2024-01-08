@@ -2,23 +2,9 @@
 **Write a program that will display child of each node of a BST (Write only the 
 Function).**
 
-**INPUT:**  
+## INPUT: 50 20 70 10 45
 
- **50**
- 
-** /**  
-**\**
- 
- **20 70**
- 
-** /**  
-**\**
- 
- **10 45**
-
-
-**OUTPUT:** 
-
+**OUTPUT:**
 **Child of 50: 20 and 70**
 
 **Child of 20: 10 and 45**
