@@ -1,14 +1,37 @@
 ## Problem 1
-**Write a program to find Largest Number Using Dynamic Memory Allocation from a list of 
-elements. You have to input total size of elements and depending upon the number of 
-elements, the required size has to be allocated using DMA. 
-Example:**
+**Write a program that will display child of each node of a BST (Write only the 
+Function).**
 
-**Input size of array: 5**
+**INPUT:**  
 
-**Array element: 1 2 3 4 5**
+ **50**
+ 
+** /**  
+**\**
+ 
+ **20 70**
+ 
+** /**  
+**\**
+ 
+ **10 45**
 
-**Expected Output: 5**
+
+**OUTPUT:** 
+
+**Child of 50: 20 and 70**
+
+**Child of 20: 10 and 45**
+
+**Child of 10: NULL**
+
+**Child of 45: NULL**
+
+**Child of 70: NULL**
+
+
+
+
 
 ## Problem 2
 **Write a program to sort an array using Pointer. You have to write a function sortarray(int n, int * p) where n is the total array size and p is a pointer variable that have array address to solve the problem.**
