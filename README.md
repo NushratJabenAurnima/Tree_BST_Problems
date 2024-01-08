@@ -16,6 +16,23 @@ Function).**
 
 **Child of 70: NULL**
 
+## Problem 3
+**Given a Binary Search Tree (BST), write a function FindSecondLargest (root) to find the second largest element.**
+
+**Example 1:**
+
+**Input: 10 5**
+
+**Output: 5**
+
+**Example 2:**
+
+**Input: 10 5 20 30**
+
+**20 and 45**
+
+**Output: 20**
+
 ## Problem 4
 **Write a program that will construct a BST, print the nodes who are sibling (child of same parent) in the BST and delete those nodes that are leaf and doesn't have any sibling.
 First, your program will take inputs from the user and construct the BST, Second, it will print the tree elements using preorder traversal. Next, it will print the nodes who are sibling (child of same parent) in the BST. Finally, it will delete those nodes that are leaf and doesn't have any sibling and print the tree using preorder traversal.**
